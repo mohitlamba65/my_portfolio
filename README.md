@@ -2,8 +2,6 @@
 
 A premium, high-performance portfolio website built with React, Vite, and Tailwind CSS v4. This project showcases a modern design system featuring glassmorphism, rich dark mode aesthetics, and smooth animations powered by Framer Motion.
 
-![Portfolio Preview](https://raw.githubusercontent.com/mohitlamba65/portfolio/main/preview.png)
-
 ## ✨ Features
 
 - **🎨 Premium UI/UX**: Designed with a focus on aesthetics, featuring a custom dark theme, glassmorphism effects, and the modern "Outfit" typeface.
