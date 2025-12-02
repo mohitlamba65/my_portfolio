@@ -7,7 +7,7 @@ export const mockData = {
     email: "mohitlamba043@gmail.com",
     github: "https://github.com/mohitlamba65",
     linkedin: "https://linkedin.com/in/mohit-lamba-b39a3b35a",
-    resumeUrl: "https://customer-assets.emergentagent.com/job_dev-ml-expert/artifacts/xjxce7lo_MohitLamba_Resume.pdf"
+    resumeUrl: "https://drive.google.com/file/d/16FbLOmLzwXWjs3XUHHVk230iZItILJvI/view?usp=sharing"
   },
   skills: {
     frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS", "Streamlit"],
